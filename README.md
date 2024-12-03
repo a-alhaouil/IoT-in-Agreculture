@@ -3,6 +3,8 @@
 A comprehensive project leveraging IoT (Internet of Things) and machine learning to optimize agricultural processes. This repository includes sensor integration, data visualization, machine learning models for water classification, and a web interface to manage and analyze agricultural data.
 
 <img src="https://github.com/user-attachments/assets/a2c9b229-be64-4fa0-8714-30ec5908bea7" width="500"/>
+<img src="https://github.com/user-attachments/assets/cb79cc6a-80d5-4446-a36d-c1d730799e2f" width="500"/>
+
 
 ---
 
